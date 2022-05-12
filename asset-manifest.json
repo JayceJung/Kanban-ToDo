@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kanban-ToDo/static/css/main.3bda0d1b.css",
-    "main.js": "/Kanban-ToDo/static/js/main.b601d4e7.js",
+    "main.js": "/Kanban-ToDo/static/js/main.bda5b89a.js",
     "index.html": "/Kanban-ToDo/index.html",
     "main.3bda0d1b.css.map": "/Kanban-ToDo/static/css/main.3bda0d1b.css.map",
-    "main.b601d4e7.js.map": "/Kanban-ToDo/static/js/main.b601d4e7.js.map"
+    "main.bda5b89a.js.map": "/Kanban-ToDo/static/js/main.bda5b89a.js.map"
   },
   "entrypoints": [
     "static/css/main.3bda0d1b.css",
-    "static/js/main.b601d4e7.js"
+    "static/js/main.bda5b89a.js"
   ]
 }
